@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("pacman.png");
+    background-size: 250px;
+    font-family: "Comic Sans MS", "Comic Sans", fantasy;
+}
+
+.intro{
+    background-color: rgb(220, 20, 60);
+    color: rgb(255, 248, 220);
+    text-align: center;
+}
+
+.info{
+    background-color: rgb(211, 211, 211);
+    padding: 1em;
+}
